@@ -12,7 +12,7 @@ export default function HeroSection() {
                 <path stroke='var(--color-gray-200)' strokeOpacity='.5' d='M-15.227 573.66H1439.7M-15.227 164.029H1439.7' />
                 <circle cx='782.595' cy='411.166' r='308.334' stroke='var(--color-gray-200)' strokeOpacity='.5' />
             </svg>
-            <a href='https://prebuiltui.com' className='mt-32 flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-sm font-medium transition hover:bg-gray-100/80'>
+            <a href='/' className='mt-32 flex items-center gap-2 rounded-full border border-gray-200 bg-gray-50 px-3 py-1 text-sm font-medium transition hover:bg-gray-100/80'>
                 <svg width='16' height='16' viewBox='0 0 16 16' fill='none' xmlns='http://www.w3.org/2000/svg'>
                     <g clipPath='url(#a)' stroke='#1D293D' strokeWidth='1.5' strokeLinecap='round' strokeLinejoin='round'>
                         <path d='M6.626 10.333a1.33 1.33 0 0 0-.958-.958l-4.09-1.054a.333.333 0 0 1 0-.642l4.09-1.055a1.33 1.33 0 0 0 .958-.957l1.055-4.09a.333.333 0 0 1 .642 0l1.054 4.09a1.33 1.33 0 0 0 .958.958l4.09 1.054a.333.333 0 0 1 0 .642l-4.09 1.054a1.33 1.33 0 0 0-.958.958l-1.055 4.09a.334.334 0 0 1-.642 0zM13.336 2v2.667m1.331-1.334H12m-9.336 8v1.333M3.333 12H2' />
